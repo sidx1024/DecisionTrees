@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "decision-trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "sidx1024",
+  "license": "ISC"
+}
